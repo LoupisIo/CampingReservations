@@ -1,3 +1,8 @@
+This project was made for a Web Programming course at the ECE - Univercity of Patras
+
+Authors: Nikos Papas, Ioannis Loupis
+
+
 Οδηγίες Εγκατάστασης της εφαρμογής:
 Εγκατάσταση Βάσης Δεδομένων
 1.1.  Για την υλοποίηση της βάσης δεδομένων χρειάζεται η πρόσβαση σε μία εφαρμογή phpmyAdmin. 
