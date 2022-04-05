@@ -1,0 +1,30 @@
+.wrapper {
+	width: calc(4 * var(--width));
+	height: calc(4 * var(--height));
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper a {
+
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:60px;
+	margin-left:20px;
+	
+}
+
+.wrapper a:hover {
+	color: white;
+	background: #ee5057;	
+}
+
+ .inf-content{
+	 margin-bottom:10px;
+    border:1px solid #DDDDDD;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+}
