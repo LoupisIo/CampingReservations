@@ -1,5 +1,10 @@
 # CampingReservations
 A simple Node.js Project for a camping site reservations management
+
+This project was made for a Web Programming course at the ECE - Univercity of Patras
+
+Authors: Nikos Papas, Ioannis Loupis
+
 Οδηγίες Εγκατάστασης της εφαρμογής:
 
 Εγκατάσταση Βάσης Δεδομένων
